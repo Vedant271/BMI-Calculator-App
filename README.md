@@ -17,5 +17,5 @@
 
 # App Preview
 
-https://user-images.githubusercontent.com/90595461/144437735-7db59d95-52bd-4405-b73d-9033ac7ebc53.mp4
+https://user-images.githubusercontent.com/90595461/144446802-8045370a-c264-4a37-ab0f-14cbdbd41a86.mp4
 
